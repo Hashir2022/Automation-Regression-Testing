@@ -1,21 +1,79 @@
-# Automated Regression Testing Project
+# 🚀 Automated Regression Testing Project
 
-## Tool Used
-Selenium WebDriver with Python
+## 📌 Project Overview
+This project demonstrates Automated Regression Testing on a web application using Selenium WebDriver with Python.  
+The main focus is to automate login functionality and verify UI components such as Dashboard and Side Menu.
 
-## Website
-OrangeHRM Demo Application
+---
 
-## Objective
-To automate login functionality and verify dashboard and UI components.
+## 🌐 Website Used
+:contentReference[oaicite:0]{index=0}  
+https://opensource-demo.orangehrmlive.com
 
-## Test Cases
-1. Login Test
-2. Dashboard Verification
-3. Side Menu Verification
+---
 
-## Result
-All test cases passed successfully.
+## ⚙️ Tech Stack
+- Python 🐍  
+- Selenium WebDriver 🌐  
+- ChromeDriver  
+- VS Code  
 
-## Conclusion
-Automation testing was successfully performed and all UI elements are working correctly.
+---
+
+## 🎯 Test Scenarios
+✔ Login Functionality Test  
+✔ Dashboard Verification Test  
+✔ Side Menu UI Verification Test  
+
+---
+
+## 💻 Automation Flow
+
+### Step 1: Open Login Page
+![Login Page](screenshots/Step1_Open.png)
+
+---
+
+### Step 2: Enter Username
+![Username](screenshots/Step2_Username.png)
+
+---
+
+### Step 3: Enter Password
+![Password](screenshots/Step3_Password.png)
+
+---
+
+### Step 4: Dashboard Loaded
+![Dashboard](screenshots/Step4_Dashboard.png)
+
+---
+
+## 🧪 Test Result
+✔ Login Successful  
+✔ Dashboard Loaded Correctly  
+✔ Side Menu Verified  
+
+---
+
+## 📊 Conclusion
+Automated regression testing was successfully performed on the application.  
+All test cases passed successfully, confirming that the login functionality and UI components are working correctly.
+
+Automation testing helps in:
+- Reducing manual effort  
+- Increasing testing speed  
+- Improving accuracy  
+- Supporting regression testing  
+
+---
+
+---
+
+## 🎥 Demo Video
+(Add your screen recording link here) Soon
+
+---
+
+## 🏷️ Tags
+#Selenium #Python #AutomationTesting #QA #RegressionTesting #SoftwareTesting
