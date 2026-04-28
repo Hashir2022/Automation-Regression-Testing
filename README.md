@@ -1,21 +1,35 @@
-# Automated Regression Testing Project
+# 🧪 Automated Regression Testing using Selenium (Python)
 
-## Tool Used
-Selenium WebDriver with Python
+## 📌 Project Overview
+This project is an **Automated Regression Testing Framework** built using **Python and Selenium WebDriver**.  
 
-## Website
-OrangeHRM Demo Application
+It focuses on testing the **login functionality of a web application**, ensuring that the system behaves correctly after every update or change.
 
-## Objective
-To automate login functionality and verify dashboard and UI components.
+Automation testing helps in reducing manual effort, improving accuracy, and speeding up the testing process.
 
-## Test Cases
-1. Login Test
-2. Dashboard Verification
-3. Side Menu Verification
+---
 
-## Result
-All test cases passed successfully.
+## 🎯 Objective of the Project
+The main objectives of this project are:
 
-## Conclusion
-Automation testing was successfully performed and all UI elements are working correctly.
+- Automate login test cases using Selenium
+- Validate correct and incorrect login scenarios
+- Ensure application stability after code changes (Regression Testing)
+- Reduce manual testing effort
+- Generate reliable and repeatable test results
+- Improve overall software quality
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+- 🐍 Python (Programming Language)
+- 🌐 Selenium WebDriver (Automation Tool)
+- 🧪 PyTest (Test Framework)
+- 💻 VS Code (IDE)
+- 🔗 Git & GitHub (Version Control)
+- 🌍 ChromeDriver (Browser Automation)
+
+---
+
+## 📂 Project Structure
