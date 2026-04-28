@@ -28,9 +28,10 @@ https://opensource-demo.orangehrmlive.com
 
 ## 💻 Automation Flow
 
-### Step 1: Open Login Page
-![Login Page](Source%20File/screenshots/Step1_LoginPage.png) 
+## 📸 Screenshots
 
+### Login Page
+![Login Page](Source_File/screenshots/Step1_LoginPage.png)
 
 ## 🧪 Test Result
 ✔ Login Successful  
