@@ -29,24 +29,8 @@ https://opensource-demo.orangehrmlive.com
 ## 💻 Automation Flow
 
 ### Step 1: Open Login Page
-![Login Page](Automated Regression Testing on a WebApplication/Source File/screenshots/Step1 Open Website.png)
+![Login Page](Source%20File/screenshots/Step1_LoginPage.png) 
 
----
-
-### Step 2: Enter Username
-![Username](Automated Regression Testing on a WebApplication/Source File/Step2_Username.png)
-
----
-
-### Step 3: Enter Password
-![Password](Automated Regression Testing on a WebApplication/Source File/Step3_Password.png)
-
----
-
-### Step 4: Dashboard Loaded
-![Dashboard](Automated Regression Testing on a WebApplication/Source File/Step4_Dashboard.png)
-
----
 
 ## 🧪 Test Result
 ✔ Login Successful  
