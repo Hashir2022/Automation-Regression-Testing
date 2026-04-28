@@ -7,7 +7,6 @@ The main focus is to automate login functionality and verify UI components such 
 ---
 
 ## 🌐 Website Used
-:contentReference[oaicite:0]{index=0}  
 https://opensource-demo.orangehrmlive.com
 
 ---
@@ -30,7 +29,7 @@ https://opensource-demo.orangehrmlive.com
 ## 💻 Automation Flow
 
 ### Step 1: Open Login Page
-![Login Page](Automated Regression Testing on a WebApplication/Source File/Step1_Open.png)
+![Login Page](Automated Regression Testing on a WebApplication/Source File/screenshots/Step1 Open Website.png)
 
 ---
 
