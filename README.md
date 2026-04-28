@@ -30,22 +30,22 @@ https://opensource-demo.orangehrmlive.com
 ## 💻 Automation Flow
 
 ### Step 1: Open Login Page
-![Login Page](screenshots/Step1_Open.png)
+![Login Page](WebApplication/Source File/Step1_Open.png)
 
 ---
 
 ### Step 2: Enter Username
-![Username](screenshots/Step2_Username.png)
+![Username](WebApplication/Source File/Step2_Username.png)
 
 ---
 
 ### Step 3: Enter Password
-![Password](screenshots/Step3_Password.png)
+![Password](WebApplication/Source File/Step3_Password.png)
 
 ---
 
 ### Step 4: Dashboard Loaded
-![Dashboard](screenshots/Step4_Dashboard.png)
+![Dashboard](WebApplication/Source File/Step4_Dashboard.png)
 
 ---
 
