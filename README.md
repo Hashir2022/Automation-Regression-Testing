@@ -1,63 +1,26 @@
-# 🚀 Automated Regression Testing Project
+🚀 Automated Regression Testing Project Completed!
 
-## 📌 Project Overview
-This project demonstrates Automated Regression Testing on a web application using Selenium WebDriver with Python.  
-The main focus is to automate login functionality and verify UI components such as Dashboard and Side Menu.
+I am excited to share my recent project on Automated Regression Testing using Selenium WebDriver with Python.
 
----
+In this project, I automated the login functionality of a web application and performed regression testing to verify multiple UI components including:
+✔ Login functionality
+✔ Dashboard verification
+✔ Side menu validation
 
-## 🌐 Website Used
-https://opensource-demo.orangehrmlive.com
+🔧 Tech Stack:
+- Selenium WebDriver
+- Python
+- ChromeDriver
+- Manual + Automated Testing concepts
 
----
+🎯 Key Learnings:
+- Automation testing improves speed and accuracy
+- Regression testing ensures existing features are not broken
+- Real-world QA workflow experience
 
-## ⚙️ Tech Stack
-- Python 🐍  
-- Selenium WebDriver 🌐  
-- ChromeDriver  
-- VS Code  
+📊 Outcome:
+All test cases passed successfully, and the application behaved as expected during automation execution.
 
----
+This project helped me strengthen my skills in QA Automation and software testing fundamentals.
 
-## 🎯 Test Scenarios
-✔ Login Functionality Test  
-✔ Dashboard Verification Test  
-✔ Side Menu UI Verification Test  
-
----
-
-## 💻 Automation Flow
-
-## 📸 Screenshots
-
-### Login Page
-![Login Page](Source_File/screenshots/Step1_LoginPage.png)
-
-## 🧪 Test Result
-✔ Login Successful  
-✔ Dashboard Loaded Correctly  
-✔ Side Menu Verified  
-
----
-
-## 📊 Conclusion
-Automated regression testing was successfully performed on the application.  
-All test cases passed successfully, confirming that the login functionality and UI components are working correctly.
-
-Automation testing helps in:
-- Reducing manual effort  
-- Increasing testing speed  
-- Improving accuracy  
-- Supporting regression testing  
-
----
-
----
-
-## 🎥 Demo Video
-(Add your screen recording link here) Soon
-
----
-
-## 🏷️ Tags
-#Selenium #Python #AutomationTesting #QA #RegressionTesting #SoftwareTesting
+#AutomationTesting #Selenium #Python #SoftwareTesting #QA #QualityAssurance #RegressionTesting
