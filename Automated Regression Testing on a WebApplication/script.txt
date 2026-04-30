@@ -1,65 +1,62 @@
+🎤 🟢 INTRO (0:00 – 0:40)
 
-🎤 🟢 INTRO (0:00 – 0:30)
-Hello, Im Hashir Ahmed this is my automated regression testing assignment.
+Hello, I am Hashir Ahmed and this is my automated regression testing assignment.
 
 In this project, I am using Selenium WebDriver with Python to perform automated testing on a web application.
 
-The main objective is to test the login functionality and verify whether it works correctly or not.
+The objective of this project is to automate the login functionality and verify whether the application is working correctly or not.
+
+Automation testing is very useful because it reduces manual effort, saves time, and improves testing accuracy.
 
 
-🎤 🟢 CODE INTRO (0:30 – 1:00)
+🎤 🟢 CODE INTRO (0:40 – 1:15)
 
-Here is my automation script written in Python using Selenium.
+Here is my automation script written in Python using Selenium WebDriver.
 
-This script automatically opens the browser, enters the login credentials, clicks the login button, and verifies the result.
+This script automatically opens the Chrome browser, navigates to the OrangeHRM demo website, enters the login credentials, clicks the login button, and verifies the dashboard.
+
+I have also added screenshot capturing and validation steps to make the testing process more effective and professional.
 
 
+🎤 🟢 RUN CODE (1:15 – 1:40)
 
-
-🎤 🟢 RUN CODE (1:00 – 1:30)
 Now I am running the Python script using the command line.
 
-The automation test will start executing step by step.
+After executing the command, the automation test will start running step by step automatically.
+
+The browser actions and testing process can be clearly seen during execution.
 
 
+🎤 🟢 AUTOMATION EXECUTION (1:40 – 2:40)
 
-🎤 🟢 AUTOMATION EXECUTION (1:30 – 2:30)
-
-The browser is now opening automatically and navigating to the login page.
+The browser is now opening automatically and navigating to the login page of the OrangeHRM application.
 
 The script is entering the username as Admin and password as admin123.
 
-After that, it is clicking the login button to proceed.
+After entering the credentials, the automation script clicks the login button to continue the process.
+
+Once the login is completed, the dashboard page is loaded successfully.
+
+The script also verifies that the side menu and dashboard elements are properly visible as part of regression testing.
 
 
+🎤 🟢 RESULT (2:40 – 3:20)
+
+The login was successful and the dashboard page was displayed correctly.
+
+This confirms that the automated test case passed successfully without any errors.
+
+The automation script executed all the required steps correctly including login validation, dashboard verification, and side menu checking.
+
+Screenshots were also captured during execution for reporting and documentation purposes.
 
 
-🎤 🟢 RESULT (2:30 – 3:15)
-The login is successful and the dashboard page is displayed.
+🎤 🟢 CONCLUSION (3:20 – 4:00)
 
-This confirms that the test case has passed successfully.
+In conclusion, automated regression testing was successfully performed using Selenium WebDriver with Python.
 
-The automation script executed all steps correctly without any manual intervention.
+All test cases executed successfully and the application behaved as expected during the automation process.
 
+Automation testing helps improve software quality by reducing manual effort, increasing execution speed, improving accuracy, and supporting repeated testing of applications efficiently.
 
-
-
-🎤 🟢 CONCLUSION (3:15 – 4:00)
-
-In conclusion, automated regression testing was successfully performed.
-
-Automation testing helps reduce manual effort, increases execution speed, and improves accuracy.
-
-It is very useful for testing web applications repeatedly and ensuring software quality.
-
-
-
-
-
-
-
-
-
-
-
-
+This project helped me gain practical experience in automation testing and regression testing concepts.
